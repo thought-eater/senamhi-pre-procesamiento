@@ -1,0 +1,33 @@
+producto,criterio,estado,detalle
+pm25,esquema_y_clave,CUMPLE,117936 filas; clave única; columnas separadas
+pm25,periodo_y_frecuencia,CUMPLE,2025-01-01 a 2026-06-30; 13104 horas por estación; frecuencia 1 h
+pm25,antiguedad,CUMPLE,"Fechas entre 2016-10-07 y 2026-10-07, sin fechas futuras"
+pm25,conservacion_claves,CUMPLE,Toda clave del CSV de adquisición permanece en el producto
+pm25,georreferenciacion,CUMPLE,"9 estaciones; rangos geográficos, constancia y coincidencia con bruto"
+pm25,procedencia,CUMPLE,0 incoherencias de SOURCE/valor
+pm25,observaciones_preservadas,CUMPLE,0 diferencias respecto al bruto (tolerancia 1e-9); 0 representaciones angulares equivalentes (0°/360°)
+pm25,log_imputacion,CUMPLE,"5862 celdas imputadas contrastadas por estación, variable, hora y método"
+pm25,meses_con_observaciones_PM2_5,CUMPLE,18 meses consecutivos con ≥1 observación en alguna estación; no implica cobertura completa
+meteo,esquema_y_clave,CUMPLE,91728 filas; clave única; columnas separadas
+meteo,periodo_y_frecuencia,CUMPLE,2025-01-01 a 2026-06-30; 13104 horas por estación; frecuencia 1 h
+meteo,antiguedad,CUMPLE,"Fechas entre 2016-10-07 y 2026-10-07, sin fechas futuras"
+meteo,conservacion_claves,CUMPLE,Toda clave del CSV de adquisición permanece en el producto
+meteo,georreferenciacion,CUMPLE,"7 estaciones; rangos geográficos, constancia y coincidencia con bruto"
+meteo,procedencia,CUMPLE,0 incoherencias de SOURCE/valor
+meteo,observaciones_preservadas,CUMPLE,0 diferencias respecto al bruto (tolerancia 1e-9); 0 representaciones angulares equivalentes (0°/360°)
+meteo,log_imputacion,CUMPLE,"16672 celdas imputadas contrastadas por estación, variable, hora y método"
+meteo,meses_con_observaciones_TEMP,CUMPLE,18 meses consecutivos con ≥1 observación en alguna estación; no implica cobertura completa
+meteo,meses_con_observaciones_HR,CUMPLE,18 meses consecutivos con ≥1 observación en alguna estación; no implica cobertura completa
+meteo,meses_con_observaciones_PP,CUMPLE,18 meses consecutivos con ≥1 observación en alguna estación; no implica cobertura completa
+meteo,meses_con_observaciones_DIR_VIENTO,CUMPLE,18 meses consecutivos con ≥1 observación en alguna estación; no implica cobertura completa
+meteo,meses_con_observaciones_VEL_VIENTO,CUMPLE,18 meses consecutivos con ≥1 observación en alguna estación; no implica cobertura completa
+meteo,disponibilidad_ifs,CUMPLE,91728/91728 valores externos disponibles; separados de PP
+R1.1,tabla_11_PM2_5,CUMPLE,Comparación con cifras de referencia; porcentajes redondeados a dos decimales
+R1.1,tabla_11_TEMP,CUMPLE,Comparación con cifras de referencia; porcentajes redondeados a dos decimales
+R1.1,tabla_11_HR,CUMPLE,Comparación con cifras de referencia; porcentajes redondeados a dos decimales
+R1.1,tabla_11_PP,CUMPLE,Comparación con cifras de referencia; porcentajes redondeados a dos decimales
+R1.1,tabla_11_DIR_VIENTO,CUMPLE,Comparación con cifras de referencia; porcentajes redondeados a dos decimales
+R1.1,tabla_11_VEL_VIENTO,CUMPLE,Comparación con cifras de referencia; porcentajes redondeados a dos decimales
+R1.1,tabla_11_PP_IFS,CUMPLE,Comparación con cifras de referencia; porcentajes redondeados a dos decimales
+R1.1,documentacion,CUMPLE,"Diccionario, metodología, reproducción e índice de evidencias disponibles; contenido sujeto a revisión"
+R1.1,revision_asesor,PENDIENTE_DOCUMENTAL,La ejecución no acredita la revisión del asesor

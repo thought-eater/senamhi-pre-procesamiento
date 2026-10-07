@@ -1,0 +1,406 @@
+{
+  "fecha_referencia": "2026-10-07",
+  "python": "3.14.7",
+  "archivos": [
+    {
+      "archivo": "entrada/pm25/pm25_lima_2025_2026.csv",
+      "bytes": 8606059,
+      "sha256": "8c56f93ec09b7cc223081d8c6acdac011939df220bc62e4dcc363b5d990a80ea"
+    },
+    {
+      "archivo": "entrada/meteo/var_meteorologicas_lima_2025_2026.csv",
+      "bytes": 8045117,
+      "sha256": "0921a489f2ceae87a08ad65a71934a61d2d21e398d324868098d8bba95c81840"
+    },
+    {
+      "archivo": "resultados/meteo/plots/heatmap_cobertura_DIR_VIENTO.png",
+      "bytes": 253443,
+      "sha256": "b4f0a361475c9e1346cc7c77ac0112b3f41905713f232e5e33e11aeab7e1c433"
+    },
+    {
+      "archivo": "resultados/meteo/plots/heatmap_cobertura_HR.png",
+      "bytes": 232386,
+      "sha256": "7e42f9f9db9bf48b5a798d0e9bff8d657380486f6ccd9f7ddaaa126743fb9177"
+    },
+    {
+      "archivo": "resultados/meteo/plots/heatmap_cobertura_PP.png",
+      "bytes": 229202,
+      "sha256": "56591b9de18362183066f4c066bc8a6362773f0a789dfadce9640d0ebf0daac6"
+    },
+    {
+      "archivo": "resultados/meteo/plots/heatmap_cobertura_TEMP.png",
+      "bytes": 233836,
+      "sha256": "919b2329cacb67a607d03d7c833502a2afa6f7b78dc28f3dc5f57c5f12f6b8f1"
+    },
+    {
+      "archivo": "resultados/meteo/plots/heatmap_cobertura_VEL_VIENTO.png",
+      "bytes": 242055,
+      "sha256": "6fad24a68b7434de1155c45cda938c6cbd6a7a6188c0cea53849f6097fba41c2"
+    },
+    {
+      "archivo": "resultados/meteo/plots/histograma_gaps.png",
+      "bytes": 264192,
+      "sha256": "300e4f403411512aa2b21d5fadd3d44ea819e135b19a06a6dbafa89dc924da13"
+    },
+    {
+      "archivo": "resultados/meteo/plots/histograma_r2_entre_estaciones.png",
+      "bytes": 73015,
+      "sha256": "29f67030731b0ceac4c6cab31443c0fc2389b59901b06d7896d0534abddde3ff"
+    },
+    {
+      "archivo": "resultados/meteo/plots/metodos_imputacion.png",
+      "bytes": 442523,
+      "sha256": "34b36aedfee3c2ecb8099e74eb49e758b2838f8036477c132c3f81ca5852e7d0"
+    },
+    {
+      "archivo": "resultados/meteo/plots/perfil_diurno_DIR_VIENTO.png",
+      "bytes": 305808,
+      "sha256": "f91e7f759fbe1c190f566d9715f9ef9ffdc6a5143bd2d627b53b306c5fcc2f96"
+    },
+    {
+      "archivo": "resultados/meteo/plots/perfil_diurno_HR.png",
+      "bytes": 561475,
+      "sha256": "fc57f896d0a7c0454fc1c3ed75c1fb7a9d69cdc9fc386ff3f8e8d090ae4e9493"
+    },
+    {
+      "archivo": "resultados/meteo/plots/perfil_diurno_PP.png",
+      "bytes": 479329,
+      "sha256": "d3c3a0b1bf50c94972effe8f100e2575dbae674f5a202a550a9b058f49b826d8"
+    },
+    {
+      "archivo": "resultados/meteo/plots/perfil_diurno_TEMP.png",
+      "bytes": 623666,
+      "sha256": "8b858a32e32055b3dc47f6ba80bf5a8505ba7b7e63094192797b8bd7fc2d5bb0"
+    },
+    {
+      "archivo": "resultados/meteo/plots/perfil_diurno_VEL_VIENTO.png",
+      "bytes": 628076,
+      "sha256": "fe151345fad9a0d01423d4d2ecbbdb7c1bf6b5704350fca59b6e1c2e9ed9534e"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CAMPO_DE_MARTE_DIR_VIENTO.png",
+      "bytes": 719103,
+      "sha256": "3e4df651eea3d6ad881bb2bec0f218df0613893d46cdfe653ef48eb7faaba567"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CAMPO_DE_MARTE_HR.png",
+      "bytes": 1180355,
+      "sha256": "1181f76d04844eb4a269cf6b8110de50984aac0592e940c15429d4baac94ded1"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CAMPO_DE_MARTE_PP.png",
+      "bytes": 221941,
+      "sha256": "2c387fec5dc294efe23d021827d4bb04fe38c743a146431c16a1a3d6a34a8be5"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CAMPO_DE_MARTE_TEMP.png",
+      "bytes": 1090166,
+      "sha256": "04fc4f8876d7afa4ead3c90c538877e2bcf97513e4a32443fec6d7a9c1f5a637"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CAMPO_DE_MARTE_VEL_VIENTO.png",
+      "bytes": 932447,
+      "sha256": "ad69c3caf336a30d1765773a7dabca44ac186d36d174d6b4d188535f2e35759d"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CARABAYLLO_DIR_VIENTO.png",
+      "bytes": 740585,
+      "sha256": "0e382158337cf3f750a424d2bb63386c9965f55f3ac2079823dc21a4d083b946"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CARABAYLLO_HR.png",
+      "bytes": 1359732,
+      "sha256": "8c2d114a3322cb0c662790813f425e30b244d9cf4a4cfb75226a914cc02b3d35"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CARABAYLLO_PP.png",
+      "bytes": 111920,
+      "sha256": "387f3104417a937d5657c6481d709d187f5195dbbe032b4d5d07fe9483804e7d"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CARABAYLLO_TEMP.png",
+      "bytes": 1118834,
+      "sha256": "8501b92ff534e051c6be0a0c9514462acc6da88026a8ba1f4382da5c1b31c407"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CARABAYLLO_VEL_VIENTO.png",
+      "bytes": 731712,
+      "sha256": "32b21f2dc2b4665674dc1b34037f244c67dec5efd56a1745c08cba827235448a"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CERES_DIR_VIENTO.png",
+      "bytes": 958632,
+      "sha256": "ca144db22fc1796f721738b795f637d183548dfa28951969e637a128a42e48ad"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CERES_HR.png",
+      "bytes": 105228,
+      "sha256": "e9ad3cec610e471a113c5ba13a5cc8b123ea62fd881f0a1f7a7cfe12e4827e72"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CERES_PP.png",
+      "bytes": 105604,
+      "sha256": "c60abe30a3d367e811dc1a0e1149a40ddac1a60da758712c6a8f256690597acb"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CERES_TEMP.png",
+      "bytes": 1126111,
+      "sha256": "83cb6b52dc3a3b501b899e374abf5f7387ebc110e3d2a4a4bc7e06a8e7907df3"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_CERES_VEL_VIENTO.png",
+      "bytes": 1029725,
+      "sha256": "1ca6cb97c57ee2a4723bbfdf6516b369d843d03a3b285afb8e4089a398074a56"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SANTA_ANITA_DIR_VIENTO.png",
+      "bytes": 851452,
+      "sha256": "66aac327d3957b8d9ce88ee2bf243cac8e01c03fe8a8596e8d93eb6dc007de42"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SANTA_ANITA_HR.png",
+      "bytes": 1295988,
+      "sha256": "580fea8a6050def4229be2663327581c4e869f872f6a6638c1011ef89781c0bb"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SANTA_ANITA_PP.png",
+      "bytes": 109606,
+      "sha256": "576244cf7f50a39a75d952f37f369e3c92919b39123bace3e88f36451de1b3be"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SANTA_ANITA_TEMP.png",
+      "bytes": 1149567,
+      "sha256": "e09a630c50d01cc0f3b862ba9a1859ee64e60b79858c58eaaa3ba3d73e81cded"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SANTA_ANITA_VEL_VIENTO.png",
+      "bytes": 946207,
+      "sha256": "cbcdd9bd8b27c09a1f071129e3062b711058933c9155df7261832ae04d6751e0"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_BORJA_DIR_VIENTO.png",
+      "bytes": 920907,
+      "sha256": "df87ca6df189a27c9e9fe66aa606cb304eac0d9da90f2c5b1dfcab205f98e5ba"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_BORJA_HR.png",
+      "bytes": 1058696,
+      "sha256": "cae19a695ac1ed1b8346369846d07d636aa9653e9ebc882f1c70694e62ea30ee"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_BORJA_PP.png",
+      "bytes": 221837,
+      "sha256": "d173031831a159cc6949ab2af2122e2b1368f5f7f882ebf7ccce6d2cf34a4bce"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_BORJA_TEMP.png",
+      "bytes": 899078,
+      "sha256": "eb9800d7e96cd726a6d8116fa7705d2e79e3978f2a1c652412cb4965814180ac"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_BORJA_VEL_VIENTO.png",
+      "bytes": 829257,
+      "sha256": "680753fcd58c6cbb66dd5ff3131a71b7d2c621046b7be08755be25366736a43a"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_JUAN_DE_LURIGANCHO_DIR_VIENTO.png",
+      "bytes": 689860,
+      "sha256": "4f237eae407b29f993f10233b0b3dac02e0dfe0e3685afc28f8d385c432c74df"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_JUAN_DE_LURIGANCHO_HR.png",
+      "bytes": 1318624,
+      "sha256": "4c38025b7292162d728b3d1a91f59e7d843056edabf0a71433837d5f16a27eb3"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_JUAN_DE_LURIGANCHO_PP.png",
+      "bytes": 203286,
+      "sha256": "27512595f73af4859f5fd7227d53df0ce1017c4a85e876e6a7466fd924fc4372"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_JUAN_DE_LURIGANCHO_TEMP.png",
+      "bytes": 1091060,
+      "sha256": "b99259bd756ec359b65b1af1771d2c66fd3fd327ee45940c399951b5d42b28fd"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_JUAN_DE_LURIGANCHO_VEL_VIENTO.png",
+      "bytes": 1097540,
+      "sha256": "30bfa3e002c79ebc5271206682382fdf6ec8b41c17c31bc5a4090dbf6c09dccb"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_MARTIN_DE_PORRES_DIR_VIENTO.png",
+      "bytes": 888171,
+      "sha256": "39d99a2d217ae963ab6a32979e8bd2753447d54e700d5b3932a1891f71425e60"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_MARTIN_DE_PORRES_HR.png",
+      "bytes": 1057397,
+      "sha256": "23353fd3d0a73507dea082dc5577046c082e318fe7dc4d5aa333deffa33d91b5"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_MARTIN_DE_PORRES_PP.png",
+      "bytes": 203836,
+      "sha256": "00398263ad2ef6110d755e837d10203f1dde04e17c4a8fc8fa589fd9160ebd84"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_MARTIN_DE_PORRES_TEMP.png",
+      "bytes": 1063988,
+      "sha256": "fc06d05338825dcddee1dff808f555cb32d6b31a0082bea4e0d6461f3ba0546c"
+    },
+    {
+      "archivo": "resultados/meteo/plots/serie_SAN_MARTIN_DE_PORRES_VEL_VIENTO.png",
+      "bytes": 899508,
+      "sha256": "3ff2e6f5a0b788bd901970f52f2cdcffb3fb2a88deaa0715bdeba8581610fa7e"
+    },
+    {
+      "archivo": "resultados/meteo/var_meteorologicas_lima_2025_2026_imputation_log.csv",
+      "bytes": 899338,
+      "sha256": "648a7779e696c423a9eb89991f50f1564b7d28c099372a3c2036eacae8d3331a"
+    },
+    {
+      "archivo": "resultados/meteo/var_meteorologicas_lima_2025_2026_imputed.csv",
+      "bytes": 17142475,
+      "sha256": "6d63ff43d3a9b324b9536c2d52de0f49f9a717fc7d00efe15decf89a2945a6c8"
+    },
+    {
+      "archivo": "resultados/meteo/var_meteorologicas_lima_2025_2026_summary.txt",
+      "bytes": 16962,
+      "sha256": "74cd13846e8029d72015a06bfefdbc2622682d91cc82af8e224d6baa68f8ae6d"
+    },
+    {
+      "archivo": "resultados/pm25/plots/heatmap_cobertura_PM2_5.png",
+      "bytes": 257797,
+      "sha256": "e850fe140eeeb6117b228730f0e9d971ab52956f6a530e1f7fc16aa0d09671a3"
+    },
+    {
+      "archivo": "resultados/pm25/plots/histograma_gaps.png",
+      "bytes": 61394,
+      "sha256": "8efd738a3ea18f3a2200c1cec5f577a9bbe66ba52fe0ce712d2f5e5b11af8bbd"
+    },
+    {
+      "archivo": "resultados/pm25/plots/metodos_imputacion.png",
+      "bytes": 73853,
+      "sha256": "4ec4d4fa2fc82f10529659135f58e96ae5212c3a9ea3a2ed44a4b71b09571c10"
+    },
+    {
+      "archivo": "resultados/pm25/plots/perfil_diurno_PM2_5.png",
+      "bytes": 699997,
+      "sha256": "bfd45c6a30b29e5701670936cf85d05e9172f6f4bece78c3e9739b82a491e0ca"
+    },
+    {
+      "archivo": "resultados/pm25/plots/serie_CAMPO_DE_MARTE_PM2_5.png",
+      "bytes": 548495,
+      "sha256": "814493b942fab841ff0cab6237cd271b121fe66ab2a7e26a3be4d7f65ce1b641"
+    },
+    {
+      "archivo": "resultados/pm25/plots/serie_CARABAYLLO_PM2_5.png",
+      "bytes": 119942,
+      "sha256": "e02d7f0bc387cfbf6d902c0d8e4799f8bf465d88af15f38a5fc1419e83c7521f"
+    },
+    {
+      "archivo": "resultados/pm25/plots/serie_CERES_PM2_5.png",
+      "bytes": 113608,
+      "sha256": "80bc68d42b6387e285c33af84100f2255315f25840af165ce03acfd14e7f44de"
+    },
+    {
+      "archivo": "resultados/pm25/plots/serie_PARIACHI_PM2_5.png",
+      "bytes": 781849,
+      "sha256": "23382a82934cc1c88f7687c6659022631b0b81ce51d773bf6ba8960348306213"
+    },
+    {
+      "archivo": "resultados/pm25/plots/serie_SANTA_ANITA_PM2_5.png",
+      "bytes": 808774,
+      "sha256": "ba66020b3165a8486c3e786d6a893cc47cf1c43f9fb78ba9a00d2cf3c25d5031"
+    },
+    {
+      "archivo": "resultados/pm25/plots/serie_SAN_BORJA_PM2_5.png",
+      "bytes": 615861,
+      "sha256": "74ed487d74d888c4dfd650400ebe9e61125ae2a9bb8c7f6e4e6fcdd3ca440073"
+    },
+    {
+      "archivo": "resultados/pm25/plots/serie_SAN_JUAN_DE_LURIGANCHO_PM2_5.png",
+      "bytes": 852758,
+      "sha256": "e2495f122bc19de6242fd45ab3c31dfdf76d7a83ecae52ecd7963d57f76aabf6"
+    },
+    {
+      "archivo": "resultados/pm25/plots/serie_SAN_MARTIN_DE_PORRES_PM2_5.png",
+      "bytes": 752599,
+      "sha256": "d7475080ed46878b11191cb3fdf6f066879c08b71e315cbcdf22315a85967dc8"
+    },
+    {
+      "archivo": "resultados/pm25/plots/serie_VILLA_MARIA_DEL_TRIUNFO_PM2_5.png",
+      "bytes": 690424,
+      "sha256": "c95a99b518dbddd153baac386aaa928b2c2e0beeaacbec6205583cb703862b64"
+    },
+    {
+      "archivo": "resultados/pm25/pm25_lima_2025_2026_imputation_log.csv",
+      "bytes": 190350,
+      "sha256": "c7f51bf634ef5fa295df5196148b79bf12425643a7bf3f034dd5ea72a4f08561"
+    },
+    {
+      "archivo": "resultados/pm25/pm25_lima_2025_2026_imputed.csv",
+      "bytes": 11031767,
+      "sha256": "54f845390ca35cbe5648cf0c5a3c173cc0317cbbf2717918fabea45c85cac766"
+    },
+    {
+      "archivo": "resultados/pm25/pm25_lima_2025_2026_summary.txt",
+      "bytes": 4489,
+      "sha256": "57e5f83aa7b0a168b7633d811905b648f52139d7176f49168c775be46c868e75"
+    },
+    {
+      "archivo": "docs/diccionario.md",
+      "bytes": 4342,
+      "sha256": "7420f62e45a7ef69987ea266f38c97684d8f771f84486d728ed609b53863ec66"
+    },
+    {
+      "archivo": "docs/metodologia.md",
+      "bytes": 4509,
+      "sha256": "107a182dcf4b26bb559ed1dd1c1f5ca9edff55c7502f028d143f2996f85ec5d8"
+    },
+    {
+      "archivo": "docs/reproduccion.md",
+      "bytes": 3516,
+      "sha256": "e9aebb2d8ab385bc7cc607d49f3baffd9a02eb1d81612925b5cf828840ccae3a"
+    },
+    {
+      "archivo": "docs/evidencias.md",
+      "bytes": 2837,
+      "sha256": "d4c83bd71a19c06a9af7e329b1dac726cf3802fa753bbebacf81facca9be6a75"
+    },
+    {
+      "archivo": "validacion/r1_1/referencia_tabla_11.csv",
+      "bytes": 375,
+      "sha256": "64d02885c8bc97b66e1144afbf85c7e7031efe20f6064e1d5bc703bd54739e66"
+    },
+    {
+      "archivo": "validacion/r1_1/verificar_datasets.py",
+      "bytes": 20860,
+      "sha256": "f6bdd1a0523bcd91e63f3e299503d5b02b6462ae14bdaf5a1f9aed0dd92e9509"
+    },
+    {
+      "archivo": "processing_rules.py",
+      "bytes": 2348,
+      "sha256": "dd7e6eb55d55288fa871980a6f2e9a685e28a0855793d9ae5c79a4f9dd30cebf"
+    },
+    {
+      "archivo": "senamhi_preprocesamiento.py",
+      "bytes": 115948,
+      "sha256": "59d57035ca65327dae73bd03247df836a85e63d9c01713e27b5e51c52c80e8a5"
+    },
+    {
+      "archivo": "integrar_precipitacion_ifs.py",
+      "bytes": 7032,
+      "sha256": "c4ba30d29ae2285c1f57efcd477bad979032711868924010bf94b6f3c3dc6b97"
+    },
+    {
+      "archivo": "pyproject.toml",
+      "bytes": 640,
+      "sha256": "8561965a57baeaa6112d25c8d71ae6b0665c2ef92620fec511a92a5c0fe6bc64"
+    },
+    {
+      "archivo": "uv.lock",
+      "bytes": 356671,
+      "sha256": "b9a8bca6cc73475626bb0bc55abad7b3f15d1bbdae8bc34817cc0cfd79813f37"
+    }
+  ]
+}

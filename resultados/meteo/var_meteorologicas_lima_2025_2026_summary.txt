@@ -1,0 +1,494 @@
+RESUMEN DE EJECUCION: meteo
+
+ESTACION=CAMPO_DE_MARTE VARIABLE=DIR_VIENTO
+  celdas_aplicables: 12559
+  observaciones_senamhi_validas: 12355 (98.38%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 204 (1.62%)
+  imputados_total: 204 (1.62%)
+  remaining_missing: 0 (0.00%)
+  coverage_final: 12559 (100.00%)
+  imputados_por_metodo:
+    imputed_short_vector_linear: 34 (16.67% de imputados)
+    imputed_weekly_vector_seasonal: 170 (83.33% de imputados)
+
+ESTACION=CAMPO_DE_MARTE VARIABLE=HR
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12910 (98.52%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 194 (1.48%)
+  imputados_total: 194 (1.48%)
+  remaining_missing: 0 (0.00%)
+  coverage_final: 13104 (100.00%)
+  imputados_por_metodo:
+    imputed_short_linear: 25 (12.89% de imputados)
+    imputed_weekly_seasonal: 169 (87.11% de imputados)
+
+ESTACION=CAMPO_DE_MARTE VARIABLE=PP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12906 (98.49%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 198 (1.51%)
+  imputados_total: 198 (1.51%)
+  remaining_missing: 0 (0.00%)
+  coverage_final: 13104 (100.00%)
+  imputados_por_metodo:
+    imputed_short_linear: 1 (0.51% de imputados)
+    imputed_short_zero: 28 (14.14% de imputados)
+    imputed_weekly_seasonal: 169 (85.35% de imputados)
+
+ESTACION=CAMPO_DE_MARTE VARIABLE=TEMP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12909 (98.51%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 195 (1.49%)
+  imputados_total: 195 (1.49%)
+  remaining_missing: 0 (0.00%)
+  coverage_final: 13104 (100.00%)
+  imputados_por_metodo:
+    imputed_short_linear: 26 (13.33% de imputados)
+    imputed_weekly_seasonal: 169 (86.67% de imputados)
+
+ESTACION=CAMPO_DE_MARTE VARIABLE=VEL_VIENTO
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12900 (98.44%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 204 (1.56%)
+  imputados_total: 204 (1.56%)
+  remaining_missing: 0 (0.00%)
+  coverage_final: 13104 (100.00%)
+  imputados_por_metodo:
+    imputed_short_vector_linear: 34 (16.67% de imputados)
+    imputed_weekly_vector_seasonal: 170 (83.33% de imputados)
+
+ESTACION=CARABAYLLO VARIABLE=DIR_VIENTO
+  celdas_aplicables: 13087
+  observaciones_senamhi_validas: 12774 (97.61%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 313 (2.39%)
+  imputados_total: 312 (2.38%)
+  remaining_missing: 1 (0.01%)
+  coverage_final: 13086 (99.99%)
+  imputados_por_metodo:
+    imputed_short_vector_linear: 48 (15.38% de imputados)
+    imputed_weekly_vector_seasonal: 264 (84.62% de imputados)
+
+ESTACION=CARABAYLLO VARIABLE=HR
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12773 (97.47%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 331 (2.53%)
+  imputados_total: 330 (2.52%)
+  remaining_missing: 1 (0.01%)
+  coverage_final: 13103 (99.99%)
+  imputados_por_metodo:
+    imputed_short_linear: 48 (14.55% de imputados)
+    imputed_weekly_seasonal: 282 (85.45% de imputados)
+
+ESTACION=CARABAYLLO VARIABLE=PP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 0 (0.00%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 13104 (100.00%)
+  imputados_total: 0 (0.00%)
+  remaining_missing: 13104 (100.00%)
+  coverage_final: 0 (0.00%)
+  imputados_por_metodo: ninguno
+
+ESTACION=CARABAYLLO VARIABLE=TEMP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12791 (97.61%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 313 (2.39%)
+  imputados_total: 312 (2.38%)
+  remaining_missing: 1 (0.01%)
+  coverage_final: 13103 (99.99%)
+  imputados_por_metodo:
+    imputed_short_linear: 48 (15.38% de imputados)
+    imputed_weekly_seasonal: 264 (84.62% de imputados)
+
+ESTACION=CARABAYLLO VARIABLE=VEL_VIENTO
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12761 (97.38%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 343 (2.62%)
+  imputados_total: 342 (2.61%)
+  remaining_missing: 1 (0.01%)
+  coverage_final: 13103 (99.99%)
+  imputados_por_metodo:
+    imputed_short_vector_linear: 63 (18.42% de imputados)
+    imputed_weekly_vector_seasonal: 279 (81.58% de imputados)
+
+ESTACION=CERES VARIABLE=DIR_VIENTO
+  celdas_aplicables: 11484
+  observaciones_senamhi_validas: 11449 (99.70%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 35 (0.30%)
+  imputados_total: 34 (0.30%)
+  remaining_missing: 1 (0.01%)
+  coverage_final: 11483 (99.99%)
+  imputados_por_metodo:
+    imputed_short_vector_linear: 27 (79.41% de imputados)
+    imputed_weekly_vector_seasonal: 7 (20.59% de imputados)
+
+ESTACION=CERES VARIABLE=HR
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 0 (0.00%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 13104 (100.00%)
+  imputados_total: 0 (0.00%)
+  remaining_missing: 13104 (100.00%)
+  coverage_final: 0 (0.00%)
+  imputados_por_metodo: ninguno
+
+ESTACION=CERES VARIABLE=PP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 0 (0.00%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 13104 (100.00%)
+  imputados_total: 0 (0.00%)
+  remaining_missing: 13104 (100.00%)
+  coverage_final: 0 (0.00%)
+  imputados_por_metodo: ninguno
+
+ESTACION=CERES VARIABLE=TEMP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 13069 (99.73%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 35 (0.27%)
+  imputados_total: 34 (0.26%)
+  remaining_missing: 1 (0.01%)
+  coverage_final: 13103 (99.99%)
+  imputados_por_metodo:
+    imputed_short_linear: 27 (79.41% de imputados)
+    imputed_weekly_seasonal: 7 (20.59% de imputados)
+
+ESTACION=CERES VARIABLE=VEL_VIENTO
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 13069 (99.73%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 35 (0.27%)
+  imputados_total: 34 (0.26%)
+  remaining_missing: 1 (0.01%)
+  coverage_final: 13103 (99.99%)
+  imputados_por_metodo:
+    imputed_short_vector_linear: 27 (79.41% de imputados)
+    imputed_weekly_vector_seasonal: 7 (20.59% de imputados)
+
+ESTACION=SANTA_ANITA VARIABLE=DIR_VIENTO
+  celdas_aplicables: 12916
+  observaciones_senamhi_validas: 8539 (66.11%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 4377 (33.89%)
+  imputados_total: 4149 (32.12%)
+  remaining_missing: 228 (1.77%)
+  coverage_final: 12688 (98.23%)
+  imputados_por_metodo:
+    imputed_cross_year_vector_analog: 3887 (93.69% de imputados)
+    imputed_short_vector_linear: 8 (0.19% de imputados)
+    imputed_weekly_vector_seasonal: 254 (6.12% de imputados)
+
+ESTACION=SANTA_ANITA VARIABLE=HR
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 8268 (63.10%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 4836 (36.90%)
+  imputados_total: 262 (2.00%)
+  remaining_missing: 4574 (34.91%)
+  coverage_final: 8530 (65.09%)
+  imputados_por_metodo:
+    imputed_short_linear: 8 (3.05% de imputados)
+    imputed_weekly_seasonal: 254 (96.95% de imputados)
+
+ESTACION=SANTA_ANITA VARIABLE=PP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 0 (0.00%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 13104 (100.00%)
+  imputados_total: 0 (0.00%)
+  remaining_missing: 13104 (100.00%)
+  coverage_final: 0 (0.00%)
+  imputados_por_metodo: ninguno
+
+ESTACION=SANTA_ANITA VARIABLE=TEMP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 8274 (63.14%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 4830 (36.86%)
+  imputados_total: 327 (2.50%)
+  remaining_missing: 4503 (34.36%)
+  coverage_final: 8601 (65.64%)
+  imputados_por_metodo:
+    imputed_interstation_regression: 65 (19.88% de imputados)
+    imputed_short_linear: 8 (2.45% de imputados)
+    imputed_weekly_seasonal: 254 (77.68% de imputados)
+
+ESTACION=SANTA_ANITA VARIABLE=VEL_VIENTO
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 8671 (66.17%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 4433 (33.83%)
+  imputados_total: 4204 (32.08%)
+  remaining_missing: 229 (1.75%)
+  coverage_final: 12875 (98.25%)
+  imputados_por_metodo:
+    imputed_cross_year_vector_analog: 3942 (93.77% de imputados)
+    imputed_short_vector_linear: 8 (0.19% de imputados)
+    imputed_weekly_vector_seasonal: 254 (6.04% de imputados)
+
+ESTACION=SAN_BORJA VARIABLE=DIR_VIENTO
+  celdas_aplicables: 12536
+  observaciones_senamhi_validas: 12190 (97.24%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 346 (2.76%)
+  imputados_total: 343 (2.74%)
+  remaining_missing: 3 (0.02%)
+  coverage_final: 12533 (99.98%)
+  imputados_por_metodo:
+    imputed_cross_year_vector_analog: 3 (0.87% de imputados)
+    imputed_short_vector_linear: 297 (86.59% de imputados)
+    imputed_weekly_vector_seasonal: 43 (12.54% de imputados)
+
+ESTACION=SAN_BORJA VARIABLE=HR
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12758 (97.36%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 346 (2.64%)
+  imputados_total: 346 (2.64%)
+  remaining_missing: 0 (0.00%)
+  coverage_final: 13104 (100.00%)
+  imputados_por_metodo:
+    imputed_cross_year_analog: 3 (0.87% de imputados)
+    imputed_interstation_regression: 3 (0.87% de imputados)
+    imputed_short_linear: 297 (85.84% de imputados)
+    imputed_weekly_seasonal: 43 (12.43% de imputados)
+
+ESTACION=SAN_BORJA VARIABLE=PP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12758 (97.36%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 346 (2.64%)
+  imputados_total: 343 (2.62%)
+  remaining_missing: 3 (0.02%)
+  coverage_final: 13101 (99.98%)
+  imputados_por_metodo:
+    imputed_cross_year_analog: 3 (0.87% de imputados)
+    imputed_short_zero: 297 (86.59% de imputados)
+    imputed_weekly_seasonal: 43 (12.54% de imputados)
+
+ESTACION=SAN_BORJA VARIABLE=TEMP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12758 (97.36%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 346 (2.64%)
+  imputados_total: 346 (2.64%)
+  remaining_missing: 0 (0.00%)
+  coverage_final: 13104 (100.00%)
+  imputados_por_metodo:
+    imputed_cross_year_analog: 3 (0.87% de imputados)
+    imputed_interstation_regression: 3 (0.87% de imputados)
+    imputed_short_linear: 297 (85.84% de imputados)
+    imputed_weekly_seasonal: 43 (12.43% de imputados)
+
+ESTACION=SAN_BORJA VARIABLE=VEL_VIENTO
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12758 (97.36%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 346 (2.64%)
+  imputados_total: 343 (2.62%)
+  remaining_missing: 3 (0.02%)
+  coverage_final: 13101 (99.98%)
+  imputados_por_metodo:
+    imputed_cross_year_vector_analog: 3 (0.87% de imputados)
+    imputed_short_vector_linear: 297 (86.59% de imputados)
+    imputed_weekly_vector_seasonal: 43 (12.54% de imputados)
+
+ESTACION=SAN_JUAN_DE_LURIGANCHO VARIABLE=DIR_VIENTO
+  celdas_aplicables: 12981
+  observaciones_senamhi_validas: 11554 (89.01%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 1427 (10.99%)
+  imputados_total: 108 (0.83%)
+  remaining_missing: 1319 (10.16%)
+  coverage_final: 11662 (89.84%)
+  imputados_por_metodo:
+    imputed_cross_year_vector_analog: 13 (12.04% de imputados)
+    imputed_short_vector_linear: 13 (12.04% de imputados)
+    imputed_weekly_vector_seasonal: 82 (75.93% de imputados)
+
+ESTACION=SAN_JUAN_DE_LURIGANCHO VARIABLE=HR
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 11677 (89.11%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 1427 (10.89%)
+  imputados_total: 119 (0.91%)
+  remaining_missing: 1308 (9.98%)
+  coverage_final: 11796 (90.02%)
+  imputados_por_metodo:
+    imputed_short_linear: 18 (15.13% de imputados)
+    imputed_weekly_seasonal: 101 (84.87% de imputados)
+
+ESTACION=SAN_JUAN_DE_LURIGANCHO VARIABLE=PP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 11676 (89.10%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 1428 (10.90%)
+  imputados_total: 120 (0.92%)
+  remaining_missing: 1308 (9.98%)
+  coverage_final: 11796 (90.02%)
+  imputados_por_metodo:
+    imputed_short_zero: 19 (15.83% de imputados)
+    imputed_weekly_seasonal: 101 (84.17% de imputados)
+
+ESTACION=SAN_JUAN_DE_LURIGANCHO VARIABLE=TEMP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 11677 (89.11%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 1427 (10.89%)
+  imputados_total: 119 (0.91%)
+  remaining_missing: 1308 (9.98%)
+  coverage_final: 11796 (90.02%)
+  imputados_por_metodo:
+    imputed_short_linear: 18 (15.13% de imputados)
+    imputed_weekly_seasonal: 101 (84.87% de imputados)
+
+ESTACION=SAN_JUAN_DE_LURIGANCHO VARIABLE=VEL_VIENTO
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 7062 (53.89%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 6042 (46.11%)
+  imputados_total: 2524 (19.26%)
+  remaining_missing: 3518 (26.85%)
+  coverage_final: 9586 (73.15%)
+  imputados_por_metodo:
+    imputed_cross_year_vector_analog: 1903 (75.40% de imputados)
+    imputed_short_vector_linear: 100 (3.96% de imputados)
+    imputed_weekly_vector_seasonal: 521 (20.64% de imputados)
+
+ESTACION=SAN_MARTIN_DE_PORRES VARIABLE=DIR_VIENTO
+  celdas_aplicables: 12841
+  observaciones_senamhi_validas: 12757 (99.35%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 84 (0.65%)
+  imputados_total: 83 (0.65%)
+  remaining_missing: 1 (0.01%)
+  coverage_final: 12840 (99.99%)
+  imputados_por_metodo:
+    imputed_short_vector_linear: 43 (51.81% de imputados)
+    imputed_weekly_vector_seasonal: 40 (48.19% de imputados)
+
+ESTACION=SAN_MARTIN_DE_PORRES VARIABLE=HR
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12809 (97.75%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 295 (2.25%)
+  imputados_total: 294 (2.24%)
+  remaining_missing: 1 (0.01%)
+  coverage_final: 13103 (99.99%)
+  imputados_por_metodo:
+    imputed_cross_year_analog: 17 (5.78% de imputados)
+    imputed_interstation_regression: 12 (4.08% de imputados)
+    imputed_short_linear: 152 (51.70% de imputados)
+    imputed_weekly_seasonal: 113 (38.44% de imputados)
+
+ESTACION=SAN_MARTIN_DE_PORRES VARIABLE=PP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 13020 (99.36%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 84 (0.64%)
+  imputados_total: 83 (0.63%)
+  remaining_missing: 1 (0.01%)
+  coverage_final: 13103 (99.99%)
+  imputados_por_metodo:
+    imputed_short_zero: 43 (51.81% de imputados)
+    imputed_weekly_seasonal: 40 (48.19% de imputados)
+
+ESTACION=SAN_MARTIN_DE_PORRES VARIABLE=TEMP
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 13020 (99.36%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 84 (0.64%)
+  imputados_total: 83 (0.63%)
+  remaining_missing: 1 (0.01%)
+  coverage_final: 13103 (99.99%)
+  imputados_por_metodo:
+    imputed_short_linear: 43 (51.81% de imputados)
+    imputed_weekly_seasonal: 40 (48.19% de imputados)
+
+ESTACION=SAN_MARTIN_DE_PORRES VARIABLE=VEL_VIENTO
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 13020 (99.36%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 84 (0.64%)
+  imputados_total: 83 (0.63%)
+  remaining_missing: 1 (0.01%)
+  coverage_final: 13103 (99.99%)
+  imputados_por_metodo:
+    imputed_short_vector_linear: 43 (51.81% de imputados)
+    imputed_weekly_vector_seasonal: 40 (48.19% de imputados)
+
+TOTAL
+  celdas_aplicables: 455316
+  observaciones_senamhi_validas: 367912 (80.80%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 87404 (19.20%)
+  imputados_total: 16672 (3.66%)
+  remaining_missing: 70732 (15.53%)
+  coverage_final: 384584 (84.47%)
+  imputados_por_metodo:
+    imputed_cross_year_analog: 26 (0.16% de imputados)
+    imputed_cross_year_vector_analog: 9751 (58.49% de imputados)
+    imputed_interstation_regression: 83 (0.50% de imputados)
+    imputed_short_linear: 1016 (6.09% de imputados)
+    imputed_short_vector_linear: 1042 (6.25% de imputados)
+    imputed_short_zero: 387 (2.32% de imputados)
+    imputed_weekly_seasonal: 2193 (13.15% de imputados)
+    imputed_weekly_vector_seasonal: 2174 (13.04% de imputados)
+
+PRECIPITACION EXTERNA ECMWF IFS (PP_IFS)
+  ESTACION=CAMPO_DE_MARTE: 13104/13104 (100.00%)
+  ESTACION=CARABAYLLO: 13104/13104 (100.00%)
+  ESTACION=CERES: 13104/13104 (100.00%)
+  ESTACION=SANTA_ANITA: 13104/13104 (100.00%)
+  ESTACION=SAN_BORJA: 13104/13104 (100.00%)
+  ESTACION=SAN_JUAN_DE_LURIGANCHO: 13104/13104 (100.00%)
+  ESTACION=SAN_MARTIN_DE_PORRES: 13104/13104 (100.00%)
+  TOTAL: 91728/91728 (100.00%)
+  FALTANTES: 0
+  ORIGEN: ECMWF IFS; no es una observacion SENAMHI

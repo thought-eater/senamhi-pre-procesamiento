@@ -1,0 +1,28 @@
+[project]
+name = "senamhi-pre-procesamiento"
+version = "0.1.0"
+description = "Imputación escalonada de datos horarios PM2.5 y meteorológicos (Lima, 2025-2026)"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scikit-learn>=1.0",
+    "seaborn",
+]
+
+[project.scripts]
+senamhi-preprocesamiento = "senamhi_preprocesamiento:main"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0",
+    "ruff>=0.4",
+]
+
+[tool.setuptools]
+py-modules = ["senamhi_preprocesamiento", "integrar_precipitacion_ifs", "processing_rules"]

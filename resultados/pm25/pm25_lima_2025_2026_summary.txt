@@ -1,0 +1,134 @@
+RESUMEN DE EJECUCION: pm25
+
+ESTACION=CAMPO_DE_MARTE VARIABLE=PM2_5
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12509 (95.46%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 595 (4.54%)
+  imputados_total: 595 (4.54%)
+  remaining_missing: 0 (0.00%)
+  coverage_final: 13104 (100.00%)
+  imputados_por_metodo:
+    imputed_cross_year_analog: 9 (1.51% de imputados)
+    imputed_short_linear: 67 (11.26% de imputados)
+    imputed_weekly_seasonal: 519 (87.23% de imputados)
+
+ESTACION=CARABAYLLO VARIABLE=PM2_5
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 0 (0.00%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 13104 (100.00%)
+  imputados_total: 0 (0.00%)
+  remaining_missing: 13104 (100.00%)
+  coverage_final: 0 (0.00%)
+  imputados_por_metodo: ninguno
+
+ESTACION=CERES VARIABLE=PM2_5
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 0 (0.00%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 13104 (100.00%)
+  imputados_total: 0 (0.00%)
+  remaining_missing: 13104 (100.00%)
+  coverage_final: 0 (0.00%)
+  imputados_por_metodo: ninguno
+
+ESTACION=PARIACHI VARIABLE=PM2_5
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12052 (91.97%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 1052 (8.03%)
+  imputados_total: 1051 (8.02%)
+  remaining_missing: 1 (0.01%)
+  coverage_final: 13103 (99.99%)
+  imputados_por_metodo:
+    imputed_cross_year_analog: 37 (3.52% de imputados)
+    imputed_short_linear: 70 (6.66% de imputados)
+    imputed_weekly_seasonal: 944 (89.82% de imputados)
+
+ESTACION=SANTA_ANITA VARIABLE=PM2_5
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12369 (94.39%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 735 (5.61%)
+  imputados_total: 701 (5.35%)
+  remaining_missing: 34 (0.26%)
+  coverage_final: 13070 (99.74%)
+  imputados_por_metodo:
+    imputed_cross_year_analog: 8 (1.14% de imputados)
+    imputed_short_linear: 78 (11.13% de imputados)
+    imputed_weekly_seasonal: 615 (87.73% de imputados)
+
+ESTACION=SAN_BORJA VARIABLE=PM2_5
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12592 (96.09%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 512 (3.91%)
+  imputados_total: 512 (3.91%)
+  remaining_missing: 0 (0.00%)
+  coverage_final: 13104 (100.00%)
+  imputados_por_metodo:
+    imputed_short_linear: 39 (7.62% de imputados)
+    imputed_weekly_seasonal: 473 (92.38% de imputados)
+
+ESTACION=SAN_JUAN_DE_LURIGANCHO VARIABLE=PM2_5
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12166 (92.84%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 938 (7.16%)
+  imputados_total: 890 (6.79%)
+  remaining_missing: 48 (0.37%)
+  coverage_final: 13056 (99.63%)
+  imputados_por_metodo:
+    imputed_cross_year_analog: 7 (0.79% de imputados)
+    imputed_short_linear: 241 (27.08% de imputados)
+    imputed_weekly_seasonal: 642 (72.13% de imputados)
+
+ESTACION=SAN_MARTIN_DE_PORRES VARIABLE=PM2_5
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 12901 (98.45%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 203 (1.55%)
+  imputados_total: 203 (1.55%)
+  remaining_missing: 0 (0.00%)
+  coverage_final: 13104 (100.00%)
+  imputados_por_metodo:
+    imputed_cross_year_analog: 2 (0.99% de imputados)
+    imputed_short_linear: 76 (37.44% de imputados)
+    imputed_weekly_seasonal: 125 (61.58% de imputados)
+
+ESTACION=VILLA_MARIA_DEL_TRIUNFO VARIABLE=PM2_5
+  celdas_aplicables: 13104
+  observaciones_senamhi_validas: 10427 (79.57%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 2677 (20.43%)
+  imputados_total: 1910 (14.58%)
+  remaining_missing: 767 (5.85%)
+  coverage_final: 12337 (94.15%)
+  imputados_por_metodo:
+    imputed_cross_year_analog: 622 (32.57% de imputados)
+    imputed_short_linear: 63 (3.30% de imputados)
+    imputed_weekly_seasonal: 1225 (64.14% de imputados)
+
+TOTAL
+  celdas_aplicables: 117936
+  observaciones_senamhi_validas: 85016 (72.09%)
+  hard_invalid: 0 (0.00%)
+  operational_outliers: 0 (0.00%)
+  missing_antes: 32920 (27.91%)
+  imputados_total: 5862 (4.97%)
+  remaining_missing: 27058 (22.94%)
+  coverage_final: 90878 (77.06%)
+  imputados_por_metodo:
+    imputed_cross_year_analog: 685 (11.69% de imputados)
+    imputed_short_linear: 634 (10.82% de imputados)
+    imputed_weekly_seasonal: 4543 (77.50% de imputados)
